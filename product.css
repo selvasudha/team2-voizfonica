@@ -29,7 +29,7 @@
 	font-weight: bold;
 }
 .features {
-	margin: 10em auto;
+	margin: 5em auto;
 	padding: 1em;
 	position: relative;
 }
@@ -64,5 +64,5 @@
 .footer-copyright{
 	color: #000;
 
-	padding: 200px 0;
+	padding: 70px 0;
 } 
