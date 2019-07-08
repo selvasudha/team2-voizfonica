@@ -22,10 +22,10 @@
 
 
 
-.description h1 {
+.description h3 {
 	padding: 10px;
-	color: #000000;
-	text-align: center;
+	color: #ff0000;
+	
 	font-weight: bold;
 }
 .features {
@@ -34,27 +34,22 @@
 	position: relative;
 }
 
-/* .feature-title {
+.feature-title {
 	color: #ff0000;
 	font-size: 3rem;
 	font-weight: bold;
 	margin-bottom: 20px;
 	text-transform: uppercase;
-} */
+}
 
 .features img {
 	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
-	margin-left: 60px;
-	margin-bottom: 30px;
+	margin-bottom: 16px;
 }
 .features .btn {
-<<<<<<< HEAD
-	background-color: gray;
-=======
 	background-color: #ff0000;
->>>>>>> 9dcfc8855263a8f3164286958f6715827549730b
 	border: 1px solid #000000;
 	color: #fff;
 	margin-left:150px;
@@ -68,5 +63,5 @@
 .footer-copyright{
 	color: #000;
 
-	padding: 70px 0;
+	padding: 50px 0;
 } 
