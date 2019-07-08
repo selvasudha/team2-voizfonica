@@ -1,0 +1,11 @@
+.feature-title {
+	color: #000000;
+	font-size: 2rem;
+	font-weight: bold;
+	margin-left: 300px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.footer-copyright{
+	padding: 300px;
+}

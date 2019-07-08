@@ -1,0 +1,27 @@
+.btn{
+	margin-left: 600px;
+}
+.footer-copyright{
+	padding:100px;
+}
+.navbar {
+	background: #D3D3D3;
+}
+
+.nav-link,
+.navbar-brand {
+	color: #fff;
+	cursor: pointer;
+}
+
+.nav-link {
+	margin-right: 1em !important;
+}
+
+.nav-link:hover {
+	color: #000;
+}
+
+.navbar-collapse {
+	justify-content: flex-end;
+}
